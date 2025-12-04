@@ -3,6 +3,8 @@
 Project Title:
 Olist E-Commerce Analytics
 
+https://github.com/Pujiwara/Pictures/blob/main/gmv%20olist_page-0001.jpg
+
 Description:
 This project provides a comprehensive analysis of the Olist dataset—one of the largest e-commerce marketplaces in Brazil. The dataset includes orders, customers, sellers, products, payments, and reviews.
 The main objective of this project is to build an end-to-end analytics workflow, starting from a PostgreSQL data warehouse, ETL transformations, and ending with an interactive Power BI dashboard used to explore key business insights.
