@@ -27,28 +27,28 @@ Dataset:
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 Data Warehouse Star Schema Components:
-fact_orders
-fact_order_items
-fact_payments
-fact_reviews
-dim_customers
-dim_sellers
-dim_products
-dim_dates
-dim_geolocation (optional)
+fact_orders, 
+fact_order_items, 
+fact_payments, 
+fact_reviews, 
+dim_customers, 
+dim_sellers, 
+dim_products, 
+dim_dates, 
+dim_geolocation (optional), 
 rfm_segment
 
 ETL Process (PostgreSQL & SQL):
 The ETL pipeline includes several transformation steps such as:
-Standardizing date formats
-Cleaning and merging data for each table
-Mapping keys between fact and dimension tables
+Standardizing date formats, 
+Cleaning and merging data for each table, 
+Mapping keys between fact and dimension tables, 
 Adding calculated attributes 
 
 Power BI Dashboard Structure:
 The cleaned and transformed data is imported into Power BI to create analytical dashboards with the following sections:
-Summary Overview
-Category Performance
-Seller Performance
-Customer & Delivery Performance
+Summary Overview, 
+Category Performance, 
+Seller Performance, 
+Customer & Delivery Performance, 
 Review & Insights
