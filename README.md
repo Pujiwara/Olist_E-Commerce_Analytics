@@ -8,7 +8,7 @@ This project provides a comprehensive analysis of the Olist dataset—one of the
 The main objective of this project is to build an end-to-end analytics workflow, starting from a PostgreSQL data warehouse, ETL transformations, and ending with an interactive Power BI dashboard used to explore key business insights.
 
 Tools Used:
-PostgreSQL
+PostgreSQL, 
 Power BI
 
 Key Insights:
