@@ -1,5 +1,5 @@
 Judul Project:
-Olist E-Commerce Analytisis
+Olist E-Commerce Analysis
 
 Deskripsi:
 Project ini merupakan analisis menyeluruh terhadap dataset Olist—salah satu marketplace terbesar di Brasil.Dataset mencakup orders, customers, sellers, products, payments, dan reviews.
@@ -43,4 +43,5 @@ Selanjutnya PowerBI import data tersebut untuk dibuat dashboard dengan struktur:
 - Category Performance
 - Seller Performance
 - Customer & Delivery Performance
+
 - Review & Insight
