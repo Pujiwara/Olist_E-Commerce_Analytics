@@ -3,6 +3,10 @@
 Project Title:
 Olist E-Commerce Analytics
 
+Link notion page:
+[(English version)](https://www.notion.so/ekapujiwara/Olist-E-Commerce-GMV-Analytics-2cdc5d1ee80d80369bf9c96063cc6783?source=copy_link)
+[(versi Bahasa Indonesia)](https://www.notion.so/ekapujiwara/Olist-E-Commerce-GMV-Analytics-2cec5d1ee80d812eab73ce76342294c6?source=copy_link)
+
 ![page 1](https://github.com/Pujiwara/Pictures/blob/main/gmv%20olist_page-0001.jpg)
 ![page 2](https://github.com/Pujiwara/Pictures/blob/main/gmv%20olist_page-0002.jpg)
 ![page 3](https://github.com/Pujiwara/Pictures/blob/main/gmv%20olist_page-0003.jpg)
